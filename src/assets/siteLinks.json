@@ -16,14 +16,14 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
+    "name": "导航页",
     "link": "https://nav.oloon.cn/"
   },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.oloon.cn/"
-  },
+  // {
+  //   "icon": "Book",
+  //   "name": "网址集",
+  //   "link": "https://web.oloon.cn/"
+  // },
   {
     "icon": "Fire",
     "name": "今日热榜",
