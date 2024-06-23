@@ -21,18 +21,18 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:one@247284572@qq.com"
   },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
-  }
+  // {
+  //   "name": "Twitter",
+  //   "icon": "/images/icon/twitter.png",
+  //   "tip": "你懂的 ~",
+  //   "url": "https://twitter.com/iimmsyy"
+  // },
+  // {
+  //   "name": "Telegram",
+  //   "icon": "/images/icon/telegram.png",
+  //   "tip": "你懂的 ~",
+  //   "url": "https://t.me/bottom_user"
+  // }
 ]
